@@ -13,3 +13,12 @@ Project by TUYIZERE Sandrine
 * Python3.6
 * terminal
 * ubuntu window
+
+
+## Behavior Driven Development (BDD)
+
+* Create structure 
+* Create 6 classs are User,Downvote,Upvote,comment, Pitch and Category
+* Create test file to test all your method
+* Create the manage file for used to run all your test
+* Create Start.sh to help you to run and open the server
