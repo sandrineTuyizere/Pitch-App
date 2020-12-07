@@ -7,3 +7,9 @@ Project by TUYIZERE Sandrine
 ## Description
 
  this project is a part of Moringa School independent projects assessments.This application show all Pitches. by comments you need to login first and you can comment any comment and like any pitches you want . when you login by entering the email this application will send you en email for you to welcome in this application.
+
+
+ ## Technology used
+* Python3.6
+* terminal
+* ubuntu window
